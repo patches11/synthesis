@@ -1,0 +1,10 @@
+.idea/*
+target/*
+project/target/*
+project/project/target/*
+
+*.DS_Store
+
+hs_err*
+
+*.log
